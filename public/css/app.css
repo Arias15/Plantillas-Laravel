@@ -1,0 +1,238 @@
+
+/*
+ * Globals
+ */
+
+/* Links */
+body {
+    background-color: #f2f2f2;
+    font-family: "Lato";
+    font-weight: 300;
+    font-size: 16px;
+    color: #555;
+
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+
+
+}
+
+/* Titles */
+
+
+/* Paragraph & Typographic */
+
+
+
+
+
+
+
+
+/*TILT*/
+
+/* ==========================================================================
+   Wrap Sections
+   ========================================================================== */
+
+#headerwrap {
+    background: url(../img/header-bg.jpg) no-repeat center top;
+    margin-top: -10px;
+    padding-top:20px;
+    text-align:center;
+    background-attachment: relative;
+    background-position: center center;
+    min-height: 600px;
+    width: 100%;
+
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#headerwrap h1 {
+    margin-top: 100px;
+    color: white;
+    font-size: 50px;
+    font-weight: 300;
+    letter-spacing: 3px;
+
+}
+
+#headerwrap h2 {
+    color: white;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+/* Dark Grey Wrap */
+
+
+/* ==========================================================================
+   Pricing Tables
+   ========================================================================== */
+
+
+.showcase .showcase-text{padding:3rem}.showcase .showcase-img{min-height:30rem;background-size:cover}@media (min-width:768px){.showcase .showcase-text{padding:7rem}}
+
+
+
+/* ==========================================================================
+   footer
+   ========================================================================== */
+
+
+
+.footer {
+    float: left;
+    width: 100%;
+    padding: 0px 0px 0px 0px;
+    background: #303030 url(../images/footer-graph2.png) no-repeat right bottom;
+}
+.footer .top_footer {
+    float: left;
+    width: 100%;
+    background: #303030 url(../images/footer-graph.png) no-repeat center top;
+    padding: 14px 0px 28px 0px;
+    margin-bottom: 20px;
+}
+
+.footer .top_footer.empty {
+    float: left;
+    width: 100%;
+    background: url(../images/footer-graph.png) no-repeat center top;
+    padding: 60px 0px 0px 0px;
+    margin-bottom: 0px;
+}
+
+.footer .top_footer .colleft,
+.footer .top_footer .colright {
+    float: left;
+    width: 40%;
+}
+.footer .top_footer .colcenter {
+    float: left;
+    width: 20%;
+}
+
+.footer .top_footer h6 {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: center;
+}
+.footer .top_footer h6 em {
+    font-size: 12px;
+    font-style: normal;
+}
+
+
+/* footer light bg color */
+.footer.light h4,
+.footer.light h4.lmb {
+    color: #333;
+}
+.footer.light .qlinks li a:hover,
+.footer.light .faddress li a:hover{
+    color: #333;
+}
+
+.footer.light.two {
+    background: #fff;
+    padding-top: 100px;
+}
+.footer.light {
+    background: #f4f4f4 url(../images/footer-graph2.png) no-repeat right bottom;
+}
+.footer.light .top_footer {
+    padding: 40px 0px 0px 0px;
+    background: url(../images/footer-graph4.png) no-repeat center top;
+}
+.footer.light .top_footer h6 {
+    color: #333;
+}
+.footer.light .twitter_feeds_two .left,
+.footer.light .newsletter_two .left {
+    background: url(../images/site-img40.png) no-repeat center top;
+}
+.footer.light .twitter_feeds_two .right {
+    color: #727272;
+}
+.footer.light .twitter_feeds_two .right em {
+    color: #999;
+}
+.footer.light .twitter_feeds_two .right em a {
+    color: #999;
+}
+.footer.light .twitter_feeds_two .right em a:hover {
+    color: #727272;
+}
+
+.footer.light .newsletter_two input.enter_email_input {
+    border: 1px solid #dfdfdf;
+    color: #727272;
+    font-size: 13px;
+}
+.footer.light .newsletter_two .input_submit {
+    color: #333;
+    background-color: #dfdfdf;
+}
+.footer.light .newsletter_two .input_submit:hover {
+    color: #fff;
+}
+
+.color{
+    background-color: #5bc500;
+}
+.posicion-central{
+    margin-left: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.tab-esp{
+    margin-right: 1px;
+    margin-left: 1px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+
+}
+.emp-bus{
+    margin-left: 50px;
+}
+.boton1{
+    margin-bottom: 25px;
+    margin-left: 200px;
+}
+
+.botosepa{
+    padding-right: 20px;
+}
+.boton2{
+    margin-left: 200px;
+    margin-bottom: 30px;
+}
+.buttonaum0{
+    width: 316px;
+    height: 56px;
+    background-color: #5bc500
+}
+.buttonaum1{
+    width: 316px;
+    height: 56px;
+    background-color: #5bc500
+}
+.buttonaum2{
+    width: 652px;
+    height: 56px;
+    background-color: #5bc500;
+
+}
